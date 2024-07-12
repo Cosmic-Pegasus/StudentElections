@@ -1,0 +1,142 @@
+{
+  "boys": {
+    "Head Boy/Girl": [
+      {
+        "candidate": "Bharat",
+        "count": 0,
+        "image": "/images/bharat.jpg"
+      },
+      {
+        "candidate": "Logan Walker",
+        "count": 0,
+        "image": "/images/logan_walker.jpg"
+      },
+      {
+        "candidate": "Captain Price",
+        "count": 0,
+        "image": "/images/captain_price.jpg"
+      }
+    ],
+    "Sports Incharge": [
+      {
+        "candidate": "LeBron James",
+        "count": 0,
+        "image": "/images/lebron_james.jpg"
+      },
+      {
+        "candidate": "Cristiano Ronaldo",
+        "count": 0,
+        "image": "/images/cristiano_ronaldo.jpg"
+      },
+      {
+        "candidate": "Roger Federer",
+        "count": 0,
+        "image": "/images/roger_federer.jpg"
+      }
+    ],
+    "Co-Curricular Incharge": [
+      {
+        "candidate": "Travis Scott",
+        "count": 0,
+        "image": "/images/travis_scott.jpg"
+      },
+      {
+        "candidate": "The Weeknd",
+        "count": 0,
+        "image": "/images/the_weeknd.jpg"
+      },
+      {
+        "candidate": "RIP Juice WRLD",
+        "count": 0,
+        "image": "/images/juice_wrld.jpg"
+      }
+    ],
+    "Discipline Incharge": [
+      {
+        "candidate": "MS Dhoni",
+        "count": 0,
+        "image": "/images/ms_dhoni.jpg"
+      },
+      {
+        "candidate": "Narendra Modi",
+        "count": 0,
+        "image": "/images/narendra_modi.jpg"
+      },
+      {
+        "candidate": "Akshay Kumar",
+        "count": 0,
+        "image": "/images/akshay_kumar.jpg"
+      }
+    ]
+  },
+  "girls": {
+    "Head Boy/Girl": [
+      {
+        "candidate": "Princess Rapunzel",
+        "count": 0,
+        "image": "/images/princess_rapunzel.jpeg"
+      },
+      {
+        "candidate": "Princess Belle",
+        "count": 0,
+        "image": "/images/princess_belle.jpeg"
+      },
+      {
+        "candidate": "Princess Mulan",
+        "count": 0,
+        "image": "/images/princess_mulan.jpeg"
+      }
+    ],
+    "Sports Incharge": [
+      {
+        "candidate": "Sania Nehwal",
+        "count": 0,
+        "image": "/images/sania_nehwal.jpg"
+      },
+      {
+        "candidate": "Mithali Raj",
+        "count": 0,
+        "image": "/images/mithali_raj.jpg"
+      },
+      {
+        "candidate": "Sabrina Ionescu",
+        "count": 0,
+        "image": "/images/sabrina_ionescu.jpg"
+      }
+    ],
+    "Co-Curricular Incharge": [
+      {
+        "candidate": "Akshan",
+        "count": 0,
+        "image": "/images/akshan.jpg"
+      },
+      {
+        "candidate": "Loretta Lynch",
+        "count": 0,
+        "image": "/images/loretta_lynch.jpg"
+      },
+      {
+        "candidate": "Jennet Yellen",
+        "count": 0,
+        "image": "/images/janet_yellen.jpg"
+      }
+    ],
+    "Discipline Incharge": [
+      {
+        "candidate": "Indira Gandhi",
+        "count": 0,
+        "image": "/images/indira_gandhi.jpg"
+      },
+      {
+        "candidate": "Sonia Gandhi",
+        "count": 0,
+        "image": "/images/sonia_gandhi.jpg"
+      },
+      {
+        "candidate": "Angella Markei",
+        "count": 0,
+        "image": "/images/angella_markei.jpg"
+      }
+    ]
+  }
+}
